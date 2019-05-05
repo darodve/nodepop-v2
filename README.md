@@ -110,4 +110,8 @@ Return the list of available tags for the resource anuncios.
       ]
     }
 
+## Devops Deployment URIs
 
+[website](http://13.48.24.146/)
+
+[Nodepop](http://ec2-13-48-24-146.eu-north-1.compute.amazonaws.com)
